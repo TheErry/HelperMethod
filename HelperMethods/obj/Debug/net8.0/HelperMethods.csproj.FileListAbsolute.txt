@@ -1,0 +1,14 @@
+C:\Users\erika\source\repos\HelperMethods\bin\Debug\net8.0\HelperMethods.exe
+C:\Users\erika\source\repos\HelperMethods\bin\Debug\net8.0\HelperMethods.deps.json
+C:\Users\erika\source\repos\HelperMethods\bin\Debug\net8.0\HelperMethods.runtimeconfig.json
+C:\Users\erika\source\repos\HelperMethods\bin\Debug\net8.0\HelperMethods.dll
+C:\Users\erika\source\repos\HelperMethods\bin\Debug\net8.0\HelperMethods.pdb
+C:\Users\erika\source\repos\HelperMethods\obj\Debug\net8.0\HelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erika\source\repos\HelperMethods\obj\Debug\net8.0\HelperMethods.AssemblyInfoInputs.cache
+C:\Users\erika\source\repos\HelperMethods\obj\Debug\net8.0\HelperMethods.AssemblyInfo.cs
+C:\Users\erika\source\repos\HelperMethods\obj\Debug\net8.0\HelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\erika\source\repos\HelperMethods\obj\Debug\net8.0\HelperMethods.dll
+C:\Users\erika\source\repos\HelperMethods\obj\Debug\net8.0\refint\HelperMethods.dll
+C:\Users\erika\source\repos\HelperMethods\obj\Debug\net8.0\HelperMethods.pdb
+C:\Users\erika\source\repos\HelperMethods\obj\Debug\net8.0\HelperMethods.genruntimeconfig.cache
+C:\Users\erika\source\repos\HelperMethods\obj\Debug\net8.0\ref\HelperMethods.dll
